@@ -1,0 +1,21 @@
+{
+  "name": "threejs-view3d",
+  "version": "1.0.1",
+  "description": "这是一个基于three.js的3D视图库，用于快整构建基于three.js的开发",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "build",
+    "package.json",
+    "README.md"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "three": "^0.107.0"
+  },
+  "keywords": ["view3d","three.js","viewport3d","viewport"]
+}
