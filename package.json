@@ -1,6 +1,6 @@
 {
   "name": "threejs-view3d",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "这是一个基于three.js的3D视图库，用于快整构建基于three.js的开发",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -12,6 +12,13 @@
     "package.json",
     "README.md"
   ],
+  "bugs": {
+    "url": "https://github.com/nidiy/threejs-view3d/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidiy/threejs-view3d.git"
+  },
   "author": "",
   "license": "MIT",
   "devDependencies": {
