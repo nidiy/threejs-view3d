@@ -13,7 +13,7 @@
     "README.md"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "three": "^0.107.0"
   },
