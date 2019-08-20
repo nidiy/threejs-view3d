@@ -2,6 +2,10 @@
 
 ### View3D for three.js
 这是一个基于three.js的3D视类库，主要用于快整构建3D应用，不需要重复编写相机、场景、控制器、以及大小控制等代码，View3D将 WebGLRenderer、Scene、Camera、canvas封装在一起，方便使用，并且支持定义插件。
+
+install
+#
+```npm i threejs-view3d```
 #
 ##  TS使用实例
 ```
